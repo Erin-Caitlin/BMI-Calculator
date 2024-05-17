@@ -1,0 +1,33 @@
+*,
+::before,
+::after {
+    margin: 0;
+    padding: 20px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: thistle;
+    color: purple;
+    font-style: italic;
+}
+
+.container {
+    background-color: beige;
+    border-radius: 2rem;
+}
+
+button {
+    background-color: palevioletred;
+    border-radius: 2rem;
+    border-color: palevioletred;
+}
+
+input {
+    background-color: plum;
+    border-color: palevioletred;
+    border-radius: 3rem;
+}
