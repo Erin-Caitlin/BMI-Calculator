@@ -31,3 +31,9 @@ input {
     border-color: palevioletred;
     border-radius: 3rem;
 }
+
+#screen {
+    background-color: snow;
+    border-color: plum;
+    border-radius: 2rem;
+}
